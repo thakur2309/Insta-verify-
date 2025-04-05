@@ -4,7 +4,7 @@ This tool is used for Instagram verification and information dumping. Built for 
 
 ## Preview
 
-![InstaDump Preview](screenshot.jpg)
+/storage/emulated/0/Pictures/Screenshots/Screenshot_2025_0405_104926.jpg
 
 ## Installation & Setup
 
