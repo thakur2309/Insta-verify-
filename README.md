@@ -23,7 +23,7 @@ $ pkg install figlet git
 $ git clone https://github.com/thakur2309/Insta-verify-.git
 
 # Navigate into the directory
-$ cd instagram_verify
+$ cd Insta-verify-
 
 # Give execute permission and run the install script
 $ chmod +x install.sh
