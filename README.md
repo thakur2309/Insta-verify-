@@ -15,6 +15,9 @@ pkg install -y git && git clone https://github.com/thakur2309/Insta-verify-.git 
 pkg update && pkg upgrade -y
 ```
 ```
+pip install lolcat
+```
+```
 pkg install git
 ```
 ```
