@@ -6,7 +6,7 @@
 
 ### Termux Full Install and Setup 
 ```
-pkg install -y git && git clone https://github.com/thakur2309/Insta-verify-.git && cd Insta-verify- bash install.sh
+pkg install -y git && git clone https://github.com/thakur2309/Insta-verify-.git && cd Insta-verify- && bash install.sh
 ```
 
 ### [TERMUX] Packege Install Comments
@@ -43,7 +43,7 @@ bash instadump.sh
 </a>  
 <br>  
 
-<a href="https://github.com/Masterdas?tab=repositories">
+<a href="https://github.com/thakur2309?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
