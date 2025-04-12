@@ -6,7 +6,7 @@
 
 ### Termux Full Install and Setup 
 ```
-pkg install -y git && git clone https://github.com/thakur2309/Insta-verify-.git && cd Insta-verify- && bash install.sh
+pkg install git -y && git clone https://github.com/thakur2309/Insta-verify-.git && cd Insta-verify- && bash install.sh
 ```
 
 ### [TERMUX] Packege Install Comments
