@@ -1,6 +1,6 @@
 <h1 align="center"><u>Insta Verify</u></h1>
 
-![Instagram Image ](https://raw.githubusercontent.com/thakur2309/Insta-verify-/refs/heads/main/Screenshot_2025_0405_104926.jpg)
+![Instagram Image ](https://raw.githubusercontent.com/thakur2309/Insta-verify-/refs/heads/main/Screenshot_2025_0413_194158.jpg)
 
 <h3 align="center"> Preview!</h3>
 
@@ -15,7 +15,7 @@ pkg install git -y && git clone https://github.com/thakur2309/Insta-verify-.git 
 pkg update && pkg upgrade -y
 ```
 ```
-pip install lolcat
+pip install php curl 
 ```
 ```
 pkg install git
